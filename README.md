@@ -13,6 +13,7 @@ To use it you can download the zip file and run it in a terminal or clone the pr
 
 ``` 
 git clone https://github.com/AlexRodrigues9581/PassGen.git
+```
 
 
 
